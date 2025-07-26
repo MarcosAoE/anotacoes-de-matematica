@@ -1,6 +1,3 @@
-📖 Repositório de Anotações de Matemática  
-Este repositório serve como um caderno digital para minhas anotações das aulas de matemática. O objetivo é ter um local centralizado para revisões, consultas e estudos.
-
 🗂️ Estrutura do Repositório  
 As anotações estão organizadas por tópico ou matéria. Dentro de cada pasta, você encontrará os arquivos com o conteúdo correspondente.
 
