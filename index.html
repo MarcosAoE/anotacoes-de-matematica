@@ -24,14 +24,23 @@
         list-style: none; /* Remove os marcadores de lista */
 
       }
+      .menu-link ul{
+        list-style-type: none;
+        margin: 0px;
+      }
       .menu-link li{
+        display: inline-block;
+        margin: 0px;
         color: #eaeaea;
         line-height: 2.25;
         text-decoration: none;
         padding: .3rem .5rem;
         opacity: .7;
         letter-spacing: .015rem;
-        display: inline-block;
+      }
+      .menu-link a{
+         """padding: .3rem;"""
+         text-decoration: none;
       }
       .active{
         color: #eaeaea;"
@@ -47,8 +56,8 @@
 <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
 <polyline points="9 22 9 12 15 12 15 22"></polyline>
 </svg></a>
-          <div style="float: right;>
-            <ul class="menu-link" style="margin=0px;">
+          <div class="menu-link">
+            <ul>
               <li class="active">Home</li>
               <li>Posts</li>
               <li>Links</li>
