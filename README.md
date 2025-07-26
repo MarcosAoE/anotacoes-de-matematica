@@ -8,4 +8,4 @@ As anotações estão organizadas por tópico ou matéria. Dentro de cada pasta,
 Você pode navegar pelas pastas e arquivos diretamente aqui no GitHub. Se preferir, pode clonar o repositório para ter as anotações no seu computador e acessá-las offline.
 
 📄 Licença  
-Este projeto é, principalmente, para uso pessoal. No entanto, se você encontrar algum erro, tiver alguma sugestão de organização, sinta-se à vontade.
+Este conteúdo é de uso pessoal, mas sinta-se à vontade para consultá-lo.
