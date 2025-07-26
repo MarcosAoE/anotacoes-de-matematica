@@ -14,10 +14,17 @@
       }
       .container{
         max-width: 890px;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
         position: relative;
         margin-right: auto;
         margin-left: auto;
         padding: .5rem .3rem;
+      }
+      main{
+        flex-grow: 1;
+        margin: 0 auto;
       }
       header{
         height: auto;
@@ -72,8 +79,8 @@
           <li><a>Sobre</a></li>
         </ul>
       </header>
-      <main></main>
-      <footer></footer>
+      <main>Main</main>
+      <footer>Footer</footer>
     </div>
   </body>
 </html>
